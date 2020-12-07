@@ -1,15 +1,5 @@
 import java.util.*;
 
-/* Created by Hrushikesh Reddy
- * Anmoldeep Singh
- * Manpreet Kaur
- * Shamli Sampla
- * 
- * Program on ATM Interface
- */
-
-//We are creating a class Main
-
 public class Main {
 	
 	public static void main(String[] args) 
