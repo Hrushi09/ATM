@@ -1,4 +1,4 @@
-# ATM
+# ATM -(automated teller machine)
 Data has been Hard coded for the user ID and Password.
 This data has been Given for testing purpose.
 A Main class has been created with main method that performs all the operations
