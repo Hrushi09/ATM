@@ -2,7 +2,7 @@
 public class Withdraw
 
 {
-	int t[] = new int[20];
+	int t[] = new int[30];
 	int count =0 ,i = 0;
 	int a=500000;
 	
