@@ -3,8 +3,8 @@ import java.util.*;
 /* Created by
  * Hrushikesh Reddy 2092594
  * Anmoldeep Singh 2091617
- * Manpreet Kaur
- * Shamli Sampla
+ * Manpreet Kaur 2092039
+ * Shamli Sampla 2092504
  * 
  * Program on ATM Interface
  */
