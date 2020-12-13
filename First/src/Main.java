@@ -4,7 +4,7 @@ import java.util.*;
  * Hrushikesh Reddy 2092594
  * Anmoldeep Singh 2091617
  * Manpreet Kaur 2092039
- * Shamli Sampla 2092504
+ * Shamli 2092504
  * 
  * Program on ATM Interface
  */
@@ -122,14 +122,14 @@ public class Main {
 		}
 			
 			else
-				System.out.println("Wrong Password");
+				System.out.println("Incorrect Password");
 		
 		}catch (Exception e)
 		{
 			System.out.println("Invalid User ID");
 		}
 		
-		System.out.println("Thank you for using the ATM");
+		System.out.println("Thank you for using the Cegep ATM");
 	}
 
 }
